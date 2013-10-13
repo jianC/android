@@ -21,7 +21,7 @@
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
 
-  <project path="android" name="CyanogenMod/android" />
+  <project path="android" name="jianC/android" />
 
   <project path="abi/cpp" name="CyanogenMod/android_abi_cpp" />
   <project path="bionic" name="CyanogenMod/android_bionic" />
@@ -391,7 +391,7 @@
 <!-- Other repos for lexikon -->
   <project path="device/htc/common" name="CyanogenMod/android_device_htc_common" revision="gingerbread" />
   <project path="device/htc/msm7x30-common" name="jianC/android_device_htc_msm7x30-common" revision="jellybean" />
-  <project path="device/htc/lexikon" name="jianC/android_device_htc_lexikon" revision="jellybean" />
+  <project path="device/htc/lexikon" name="jianC/android_device_htc_lexikon" revision="cm-10.1" />
   <project path="vendor/htc" name="jianC/android_vendor_htc" revision="jellybean" />
   <project path="kernel/htc/msm7x30" name="jianC/android_kernel_htc_msm7x30" revision="jellybean" />
   <project path="prebuilt/linux-x86/toolchain/arm-linux-linaro-4.7" name="Evervolv/android_prebuilts_gcc_linux-x86_arm_arm-linux-linaro-4.7" revision="jellybean" />
