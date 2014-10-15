@@ -274,11 +274,9 @@
   <project path="system/vold" name="CyanogenMod/android_system_vold" />
 
   <project path="android" name="jianC/android" />
-  <project path="prebuilt/linux-x86/toolchain/arm-linux-linaro-4.7" name="Evervolv/android_prebuilts_gcc_linux-x86_arm_arm-linux-linaro-4.7" revision="jellybean" />
+  <project path="kernel/htc/msm7x30" name="jianC/kernel_htc_3.0" revision="master"/>
   <project path="device/htc/lexikon" name="jianC/android_device_htc_lexikon" revision="ics" />
-  <project path="kernel/htc/msm7x30" name="jianC/android_kernel_htc_msm7x30" revision="cm9"/>
   <project path="device/htc/msm7x30-common" name="CyanogenMod/android_device_htc_msm7x30-common" revision="ics" />
-  <project path="vendor/htc" name="jianC/android_vendor_htc" revision="cm9"/>
-  
+  <project path="vendor/htc/lexikon" name="jianC/android_vendor_htc_lexikon" revision="cm9"/>
 
 </manifest>
