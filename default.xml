@@ -284,7 +284,6 @@
   <project path="hardware/qcom/camera" name="cmhtcleo/android_hardware_qcom_camerahal" revision="master"/>
   <project path="kernel/htc/leo_3.0.1.6" name="jianC/android_kernel_leo_3.0.16" revision="master"/>
   <project path="vendor/htc/leo" name="cmhtcleo/android_vendor_htc_leo" revision="ics"/>
-  <project path="vendor/qcom/adreno-a2xx" name="jianC/vendor_qcom_adreno-a2xx" revision="ics"/>
   <project path="vendor/qcom/opensource/omx/mm-core" name="Evervolv/android_vendor_qcom_opensource_omx_mm-core" revision="ics"/>
   <project path="vendor/qcom/opensource/omx/mm-video" name="Evervolv/android_vendor_qcom_opensource_omx_mm-video" revision="ics"/>
 
