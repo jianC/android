@@ -274,7 +274,7 @@
   <project path="system/vold" name="CyanogenMod/android_system_vold" />
 
   <project path="android" name="jianC/android" />
-  <project path="kernel/htc/msm7x30" name="jianC/kernel_htc_lexikon-3.0" revision="master"/>
+  <project path="kernel/htc/msm7x30" name="jianC/kernel_htc_lexikon-3.0" revision="cm9"/>
   <project path="device/htc/lexikon" name="jianC/android_device_htc_lexikon" revision="ics" />
   <project path="device/htc/msm7x30-common" name="jerl92/android_device_htc_msm7x30-common" revision="ics" />
   <project path="vendor/htc/lexikon" name="jianC/android_vendor_htc_lexikon" revision="cm9"/>
